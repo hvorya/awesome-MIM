@@ -93,7 +93,7 @@ Date|Method|Conference|Title|Code
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-03-10|MedMAE|Arxiv 2022|[Self Pre-training with Masked Autoencoders for Medical Image Analysis](https://arxiv.org/pdf/2203.05573.pdf)|None
-2025-02-2025 |Hi-End-MAE|Arxiv 2025|[Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation(https://arxiv.org/abs/2502.08347)|None
+2025-02-2025|Hi-End-MAE|Arxiv 2025|[Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation](https://arxiv.org/abs/2502.08347)|None
 
 ## Analysis.
 Date|Method|Conference|Title
